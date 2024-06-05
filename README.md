@@ -16,15 +16,20 @@ The main sections of the portfolio website include:
 **Technologies Used**
 This Portfolio Website was developed using the following technologies:
 
--**HTML:** Used for structuring the content of the web pages.
--**CSS:** Used for styling and customizing the appearance of the website.
--**Bootstrap:** Utilized for responsive design and pre-built components.
--**jQuery:** Implemented for interactive elements and smooth scrolling.
+***HTML:** Used for structuring the content of the web pages.
+
+***CSS:** Used for styling and customizing the appearance of the website.
+
+***Bootstrap:** Utilized for responsive design and pre-built components.
+
+***jQuery:** Implemented for interactive elements and smooth scrolling.
 
 **Deployment**
+
 The project was deployed using [Netlify](https://www.netlify.com). Netlify provides a seamless and convenient way to deploy static websites and ensures fast and reliable hosting for My Portfolio Website.
 
-You can access the deployed website by visiting A M Idris Portfolio.
+You can access the deployed website by visiting ......
 
 **Author**
+
 This Portfolio Website was built by [Onwuzulike Francess Chisom](https://github.com/francesschisom). As the developer of this project, I incorporated my requirements, design aesthetics, and functionality into the final website.
