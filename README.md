@@ -26,9 +26,9 @@ This Portfolio Website was developed using the following technologies:
 
 **Deployment**
 
-The project was deployed using [Netlify](https://www.netlify.com). Netlify provides a seamless and convenient way to deploy static websites and ensures fast and reliable hosting for My Portfolio Website.
+The project was deployed using [Github Pages](https://pages.github.com/). Github pages provides a seamless and convenient way to deploy static websites and ensures fast and reliable hosting for My Portfolio Website.
 
-You can access the deployed website by visiting ......
+You can access the deployed website by visiting [My Portfolio Website](https://francesschisom.github.io/my_portfolio_website/)
 
 **Author**
 
