@@ -16,13 +16,13 @@ The main sections of the portfolio website include:
 **Technologies Used**
 This Portfolio Website was developed using the following technologies:
 
-***HTML:** Used for structuring the content of the web pages.
+**HTML:** Used for structuring the content of the web pages.
 
-***CSS:** Used for styling and customizing the appearance of the website.
+**CSS:** Used for styling and customizing the appearance of the website.
 
-***Bootstrap:** Utilized for responsive design and pre-built components.
+**Bootstrap:** Utilized for responsive design and pre-built components.
 
-***jQuery:** Implemented for interactive elements and smooth scrolling.
+**jQuery:** Implemented for interactive elements and smooth scrolling.
 
 **Deployment**
 
@@ -33,3 +33,7 @@ You can access the deployed website by visiting [My Portfolio Website](https://f
 **Author**
 
 This Portfolio Website was built by [Onwuzulike Francess Chisom](https://github.com/francesschisom). As the developer of this project, I incorporated my requirements, design aesthetics, and functionality into the final website.
+
+[My blogpost](https://medium.com/@chisomonwuzulike/from-concept-to-creation-building-my-first-ever-responsive-portfolio-website-1193384112b8)
+[My blogpost Linkedin](https://www.linkedin.com/posts/chisom-onwuzulike-1687a125a_from-concept-to-creation-building-my-responsive-activity-7207044053132075010-mcrH?utm_source=share&utm_medium=member_desktop)
+[My Linkedin profile](https://www.linkedin.com/in/chisom-onwuzulike-1687a125a/)
